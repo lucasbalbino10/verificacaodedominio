@@ -1,36 +1,42 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Configurações do seu usuário GitHub (substitua onde indicado)
+owner: lucasbalbino10  # <-- Coloque seu usuário do GitHub aqui
+repo: verificacaodedominio      # <-- Coloque o nome do repo (ex: uptime-monitor)
 
+user-agent: "UptimeMonitor/1.0 (https://github.com/lucasbalbino10/verificacaodedominio)"
+
+# Lista de sites para monitorar
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Esus Arara Cloud
+    url: https://esusarara.cloud
 
+  - name: Admin Noxx
+    url: https://admin.noxx.pro
+
+  - name: Registra Ponto
+    url: https://registraponto.com/ponto
+    method: GET # Garante que ele verifique a página específica
+
+  - name: PPCE Noxx
+    url: https://ppce.noxx.pro
+
+# Configuração da Página de Status Visual
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # O domínio onde a página de status vai aparecer
+  cname: status.noxx.pro
+  
+  # Textos da página
+  name: Status dos Sistemas Noxx
+  introTitle: "**Monitoramento em Tempo Real**"
+  introMessage: "Acompanhe aqui a disponibilidade e performance dos nossos sistemas."
+  
+  # (Opcional) Links para aparecerem no topo da página
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Site Principal
+      href: https://noxx.pro
+    - title: Suporte
+      href: https://noxx.pro/contato
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# (Opcional) Se for usar notificações via n8n ou CallMeBot, deixe assim:
+# Lembre-se de adicionar o "secret" NOTIFICATION_WEBHOOK_URL no GitHub
+notifications:
+  type: webhook
