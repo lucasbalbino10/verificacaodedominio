@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ppce.noxx.pro.ico",
     "slug": "ppce-noxx",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "6.90%",
+    "uptimeDay": "6.90%",
+    "uptimeWeek": "6.90%",
+    "uptimeMonth": "6.90%",
+    "uptimeYear": "6.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-11": 0
+    }
   }
 ]
