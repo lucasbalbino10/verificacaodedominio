@@ -17,7 +17,7 @@ sites:
     method: GET # Garante que ele verifique a página específica
 
   - name: PPCE Noxx
-    url: https://ppce.noxx.pro
+    url: https://ppce.euestudei.com
 
 # Configuração da Página de Status Visual
 status-website:
