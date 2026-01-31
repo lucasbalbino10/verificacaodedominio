@@ -4,15 +4,15 @@
     "url": "https://esusarara.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/esusarara.cloud.ico",
     "slug": "esus-arara-cloud",
-    "status": "up",
-    "uptime": "92.21%",
-    "uptimeDay": "85.00%",
-    "uptimeWeek": "87.72%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "92.21%",
+    "status": "down",
+    "uptime": "92.22%",
+    "uptimeDay": "84.99%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "92.22%",
+    "uptimeYear": "92.22%",
     "time": 555,
     "timeDay": 590,
-    "timeWeek": 574,
+    "timeWeek": 570,
     "timeMonth": 555,
     "timeYear": 555,
     "dailyMinutesDown": {
@@ -41,9 +41,9 @@
     "url": "https://admin.noxx.pro",
     "icon": "https://icons.duckduckgo.com/ip3/admin.noxx.pro.ico",
     "slug": "admin-noxx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -52,7 +52,9 @@
     "timeWeek": 1325,
     "timeMonth": 880,
     "timeYear": 880,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-31": 0
+    }
   },
   {
     "name": "Registra Ponto",
@@ -60,18 +62,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/registraponto.com.ico",
     "slug": "registra-ponto",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 804,
     "timeDay": 900,
     "timeWeek": 861,
     "timeMonth": 804,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2026-01-31": 0
+      "2026-01-31": 25
     }
   },
   {
@@ -79,9 +81,9 @@
     "url": "https://ppce.euestudei.com",
     "icon": "https://icons.duckduckgo.com/ip3/ppce.euestudei.com.ico",
     "slug": "ppce-noxx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -91,6 +93,7 @@
     "timeMonth": 648,
     "timeYear": 648,
     "dailyMinutesDown": {
+      "2026-01-31": 0,
       "2026-01-11": 7
     }
   }
