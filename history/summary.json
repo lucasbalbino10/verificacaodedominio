@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/esusarara.cloud.ico",
     "slug": "esus-arara-cloud",
     "status": "up",
-    "uptime": "92.17%",
+    "uptime": "92.21%",
     "uptimeDay": "85.00%",
-    "uptimeWeek": "87.69%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "92.17%",
+    "uptimeWeek": "87.72%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "92.21%",
     "time": 555,
     "timeDay": 590,
     "timeWeek": 574,
@@ -59,7 +59,7 @@
     "url": "https://registraponto.com/ponto",
     "icon": "https://icons.duckduckgo.com/ip3/registraponto.com.ico",
     "slug": "registra-ponto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -70,7 +70,9 @@
     "timeWeek": 861,
     "timeMonth": 804,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-31": 0
+    }
   },
   {
     "name": "PPCE Noxx",
