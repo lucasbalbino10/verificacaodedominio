@@ -4,17 +4,17 @@
     "url": "https://esusarara.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/esusarara.cloud.ico",
     "slug": "esus-arara-cloud",
-    "status": "up",
-    "uptime": "92.18%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "93.88%",
-    "uptimeMonth": "89.36%",
-    "uptimeYear": "92.18%",
-    "time": 586,
-    "timeDay": 565,
-    "timeWeek": 699,
-    "timeMonth": 610,
-    "timeYear": 586,
+    "status": "down",
+    "uptime": "92.25%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "89.44%",
+    "uptimeYear": "92.25%",
+    "time": 585,
+    "timeDay": 513,
+    "timeWeek": 712,
+    "timeMonth": 609,
+    "timeYear": 585,
     "dailyMinutesDown": {
       "2026-03-04": 87,
       "2026-03-03": 99,
@@ -46,7 +46,7 @@
       "2026-01-31": 220,
       "2026-01-30": 213,
       "2026-01-29": 294,
-      "2026-01-28": 177
+      "2026-01-28": 133
     }
   },
   {
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 735,
-    "timeDay": 740,
-    "timeWeek": 558,
+    "time": 731,
+    "timeDay": 518,
+    "timeWeek": 547,
     "timeMonth": 636,
-    "timeYear": 735,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2026-01-31": 135
     }
@@ -80,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 791,
-    "timeDay": 893,
+    "time": 788,
+    "timeDay": 669,
     "timeWeek": 722,
-    "timeMonth": 773,
-    "timeYear": 791,
+    "timeMonth": 771,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2026-01-31": 160
     }
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 624,
-    "timeDay": 717,
-    "timeWeek": 564,
-    "timeMonth": 604,
-    "timeYear": 624,
+    "time": 623,
+    "timeDay": 538,
+    "timeWeek": 565,
+    "timeMonth": 603,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2026-01-31": 135,
       "2026-01-11": 7
