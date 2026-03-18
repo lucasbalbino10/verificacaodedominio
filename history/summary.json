@@ -4,18 +4,19 @@
     "url": "https://esusarara.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/esusarara.cloud.ico",
     "slug": "esus-arara-cloud",
-    "status": "up",
-    "uptime": "94.46%",
-    "uptimeDay": "87.85%",
-    "uptimeWeek": "78.72%",
-    "uptimeMonth": "89.99%",
-    "uptimeYear": "94.46%",
+    "status": "down",
+    "uptime": "94.53%",
+    "uptimeDay": "87.84%",
+    "uptimeWeek": "79.63%",
+    "uptimeMonth": "90.02%",
+    "uptimeYear": "94.53%",
     "time": 635,
-    "timeDay": 2135,
-    "timeWeek": 684,
-    "timeMonth": 722,
+    "timeDay": 2159,
+    "timeWeek": 691,
+    "timeMonth": 719,
     "timeYear": 635,
     "dailyMinutesDown": {
+      "2026-03-18": 0,
       "2026-03-17": 175,
       "2026-03-16": 487,
       "2026-03-15": 535,
@@ -45,7 +46,7 @@
       "2026-02-16": 79,
       "2026-02-15": 183,
       "2026-02-14": 195,
-      "2026-02-13": 167
+      "2026-02-13": 111
     }
   },
   {
@@ -59,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 719,
-    "timeDay": 620,
-    "timeWeek": 656,
-    "timeMonth": 628,
-    "timeYear": 719,
+    "time": 718,
+    "timeDay": 621,
+    "timeWeek": 661,
+    "timeMonth": 620,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2026-01-31": 135
     }
@@ -79,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 786,
-    "timeDay": 706,
-    "timeWeek": 761,
-    "timeMonth": 758,
-    "timeYear": 786,
+    "time": 785,
+    "timeDay": 727,
+    "timeWeek": 754,
+    "timeMonth": 748,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2026-01-31": 160
     }
@@ -99,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 623,
-    "timeDay": 476,
-    "timeWeek": 610,
-    "timeMonth": 599,
-    "timeYear": 623,
+    "time": 622,
+    "timeDay": 589,
+    "timeWeek": 611,
+    "timeMonth": 595,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2026-01-31": 135,
       "2026-01-11": 7
