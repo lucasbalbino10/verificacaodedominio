@@ -4,15 +4,15 @@
     "url": "https://esusarara.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/esusarara.cloud.ico",
     "slug": "esus-arara-cloud",
-    "status": "up",
-    "uptime": "94.69%",
-    "uptimeDay": "65.17%",
-    "uptimeWeek": "89.13%",
+    "status": "down",
+    "uptime": "94.72%",
+    "uptimeDay": "67.78%",
+    "uptimeWeek": "89.84%",
     "uptimeMonth": "86.84%",
-    "uptimeYear": "94.69%",
+    "uptimeYear": "94.72%",
     "time": 612,
-    "timeDay": 517,
-    "timeWeek": 504,
+    "timeDay": 501,
+    "timeWeek": 506,
     "timeMonth": 661,
     "timeYear": 612,
     "dailyMinutesDown": {
@@ -52,8 +52,7 @@
       "2026-03-02": 155,
       "2026-03-01": 41,
       "2026-02-28": 90,
-      "2026-02-27": 32,
-      "2026-02-26": 19
+      "2026-02-27": 31
     }
   },
   {
