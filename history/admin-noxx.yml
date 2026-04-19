@@ -1,7 +1,7 @@
 url: https://admin.noxx.pro
-status: up
-code: 200
-responseTime: 739
-lastUpdated: 2026-04-18T23:45:14.049Z
+status: down
+code: 502
+responseTime: 370
+lastUpdated: 2026-04-19T22:50:00.755Z
 startTime: 2026-01-11T20:46:43.229Z
 generator: Upptime <https://github.com/upptime/upptime>
