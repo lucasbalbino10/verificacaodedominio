@@ -6,9 +6,9 @@
     "slug": "esus-arara-cloud",
     "status": "down",
     "uptime": "94.35%",
-    "uptimeDay": "86.44%",
-    "uptimeWeek": "65.60%",
-    "uptimeMonth": "85.77%",
+    "uptimeDay": "82.92%",
+    "uptimeWeek": "65.09%",
+    "uptimeMonth": "85.66%",
     "uptimeYear": "94.35%",
     "time": 588,
     "timeDay": 480,
@@ -16,6 +16,7 @@
     "timeMonth": 512,
     "timeYear": 588,
     "dailyMinutesDown": {
+      "2026-06-07": 51,
       "2026-06-06": 210,
       "2026-06-05": 894,
       "2026-06-04": 1020,
@@ -67,8 +68,7 @@
       "2026-03-30": 179,
       "2026-03-29": 265,
       "2026-03-28": 100,
-      "2026-03-27": 60,
-      "2026-03-26": 41
+      "2026-03-27": 60
     }
   },
   {
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ppce.euestudei.com.ico",
     "slug": "ppce-noxx",
     "status": "down",
-    "uptime": "88.24%",
+    "uptime": "88.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.80%",
-    "uptimeYear": "88.24%",
+    "uptimeMonth": "43.68%",
+    "uptimeYear": "88.22%",
     "time": 586,
     "timeDay": 348,
     "timeWeek": 478,
     "timeMonth": 506,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2026-06-07": 120,
+      "2026-06-07": 171,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
